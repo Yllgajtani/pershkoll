@@ -1,0 +1,76 @@
+.Paragrafi{
+    /* background-color: aqua; */
+    font-size: 20px;
+    margin-left: 629px;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+.Titulli{
+    margin-left: 590px;
+}
+.Pi{
+    background-color: aqua;
+}
+li{
+    color: red;
+}
+.m{
+color: blue;
+}
+.Me{
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+.Mi{
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+.Mr{
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+.My{
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+.Mt{
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.Ie{
+    margin-left: 300px;
+    display: flex;
+    gap: 20px;
+}
+.par3{
+    margin-left: 580px;
+    font-size: 25px;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+     margin-left: 60px;
+     width: 70px;
+     color: aliceblue;
+}
+.bt{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+     margin-left: 60px;
+     width: 70px;
+     margin-top: 18px;
+     color: aliceblue;
+}
